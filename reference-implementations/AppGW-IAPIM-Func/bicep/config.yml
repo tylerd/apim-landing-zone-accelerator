@@ -1,4 +1,4 @@
-AZURE_LOCATION: 'westus2'
+AZURE_LOCATION: 'westus3'
 RESOURCE_NAME_PREFIX: 'tylerd'
 ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'ase-demo-deployment'
